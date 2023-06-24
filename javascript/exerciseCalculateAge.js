@@ -12,3 +12,8 @@ function ageCal(age) {
 
 
 console.log(ageCal(45))
+
+
+
+// after this go to w3schools learn from there javascript 
+// and 30 days of javascript for more advance topics 
