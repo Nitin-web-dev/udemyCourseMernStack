@@ -1,0 +1,17 @@
+body {
+    background-color: #e2e2e2;
+    text-transform: uppercase;
+}
+
+.bigTitle {
+    font-size: 3rem;
+    color: rgb(195, 0, 248);
+    font-style: italic;
+}
+
+.mt {
+    margin-top: 5px;
+}
+.ml {
+    margin-left: 5rem;
+}
